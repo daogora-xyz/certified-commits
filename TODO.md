@@ -1,4 +1,4 @@
--[ ] Create full readme  
+- [X] Create full readme  
    ### Features   
     -[ ] Programmatic pre-commit-hook to certify & pin repository state publically with [Circular Protocol's](https://github.com/circular-protocol) blockchain API's. (requires CIRX funded wallet credentials/private keys provided via ENV)  
         -[ ] **Enterprise**  
